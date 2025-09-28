@@ -1,5 +1,6 @@
 # Practica-Aux-1-INF-121
 
-<h3>LUIS ABDEL CARDON PAZ </h3> <br>
-CI: 12390282
-RU: 1878371
+<h1>LUIS ABDEL CARDON PAZ </h1> <br>
+<h3>CI: 12390282</h3>
+<h3>RU: 1878371</h3>
+
